@@ -1,0 +1,17 @@
+C:\Users\Nathan\source\repos\ArduinoSoundboard\ArduinoSoundboard\bin\Debug\ArduinoSoundboard.exe.config
+C:\Users\Nathan\source\repos\ArduinoSoundboard\ArduinoSoundboard\bin\Debug\ArduinoSoundboard.exe
+C:\Users\Nathan\source\repos\ArduinoSoundboard\ArduinoSoundboard\bin\Debug\ArduinoSoundboard.pdb
+C:\Users\Nathan\source\repos\ArduinoSoundboard\ArduinoSoundboard\obj\Debug\ArduinoSoundboard.csprojAssemblyReference.cache
+C:\Users\Nathan\source\repos\ArduinoSoundboard\ArduinoSoundboard\obj\Debug\ArduinoSoundboard.Properties.Resources.resources
+C:\Users\Nathan\source\repos\ArduinoSoundboard\ArduinoSoundboard\obj\Debug\ArduinoSoundboard.csproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\ArduinoSoundboard\ArduinoSoundboard\obj\Debug\ArduinoSoundboard.exe
+C:\Users\Nathan\source\repos\ArduinoSoundboard\ArduinoSoundboard\obj\Debug\ArduinoSoundboard.pdb
+C:\Users\Nathan\source\repos\ArduinoSoundboard\ArduinoSoundboard\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nathan\source\repos\ArduinoSoundboard\ArduinoSoundboard\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Nathan\source\repos\ArduinoSoundboard\ArduinoSoundboard\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nathan\source\repos\ArduinoSoundboard\ArduinoSoundboard\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Nathan\source\repos\ArduinoSoundboard\ArduinoSoundboard\obj\Debug\ArduinoSoundboard.csproj.ResolveComReference.cache
+C:\Users\Nathan\source\repos\ArduinoSoundboard\ArduinoSoundboard\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nathan\source\repos\ArduinoSoundboard\ArduinoSoundboard\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nathan\source\repos\ArduinoSoundboard\ArduinoSoundboard\obj\Debug\ArduinoSoundboard.csproj.CopyComplete
+C:\Users\Nathan\source\repos\ArduinoSoundboard\ArduinoSoundboard\obj\Debug\ArduinoSoundboard.Houckboard.resources
